@@ -1,5 +1,5 @@
 # Decimal To Binary
-## By Amanuel Hailemariam 
+## By: Amanuel Hailemariam 
 
 Decimal to Binary converstion is one of the degital concept I learned this semester. 
 So, I created this tutorial for the purpose of sharing the knowledge I acquired throughout the semester. 
